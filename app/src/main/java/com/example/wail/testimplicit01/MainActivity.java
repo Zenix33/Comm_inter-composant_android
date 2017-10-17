@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()) {
 
             case R.id.button1:
-                Log.i("MyApp", " APPEL");
+                Log.i("MyApp", "  APPEL");
                 break;
             case R.id.button2:
                 Log.i("MyApp2", "MMS");
