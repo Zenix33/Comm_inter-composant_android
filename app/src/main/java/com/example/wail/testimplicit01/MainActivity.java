@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Log.i("MyApp", " APPEL");
                 break;
             case R.id.button2:
-                Log.i("MyApp2", " MMS");
+                Log.i("MyApp2", "MMS");
                 break;
             case R.id.button3:
                 Log.i("MyApp3", " SMS");
